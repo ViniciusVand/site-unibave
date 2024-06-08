@@ -1,0 +1,19 @@
+body{
+    /* pra colocar a letra em arial */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+a{
+    
+    color: rgba(0, 0, 0, .5);
+    /* decoração do texto. ex sublinhado */
+    text-decoration: none;
+
+    /* transformar o texto. EX: uppercase -> UPPERCASE */
+    tesxt-transform: uppercase;
+
+    /*px pq a tela é em pixel */
+    front-size: 12px;
+}
